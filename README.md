@@ -30,4 +30,4 @@ Each component is maintained as its own repository and included here as **git su
 Clone the repository with submodules:
 
 ```bash
-git clone --recurse-submodules https://github.com/<yourusername>/opensky.git
+git clone --recurse-submodules https://github.com/JaiJaveria/opensky.git
