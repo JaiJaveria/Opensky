@@ -1,0 +1,9 @@
+[submodule "Opensky-cron"]
+	path = Opensky-cron
+	url = https://github.com/JaiJaveria/Opensky-cron.git
+[submodule "skytrack"]
+	path = skytrack
+	url = https://github.com/JaiJaveria/skytrack.git
+[submodule "Opensky-backend"]
+	path = Opensky-backend
+	url = https://github.com/JaiJaveria/Opensky-backend
